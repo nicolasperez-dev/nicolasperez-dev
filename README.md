@@ -5,7 +5,14 @@ Full stack developer from Argentina, based in Brazil. I build web apps, internal
 
 **Stack:** PowerBuilder (PB 12 to latest Appeon) · PHP · SQL (MySQL, SQL Server) · JavaScript · React · Astro · WordPress · ESP32 / C++ · AI automation
 
-### Selected projects
+### Open source on this profile
+| Repo | What it does | Tech |
+|---|---|---|
+| [petpass-rescue](https://github.com/nicolasperez-dev/petpass-rescue) | Lost-pet identification with QR/NFC tags and a rescue dashboard | PHP, MySQL |
+| [estate-showcase](https://github.com/nicolasperez-dev/estate-showcase) | Real estate showcase with listings, galleries and filters | React, TypeScript, Vite |
+| [cnc-control](https://github.com/nicolasperez-dev/cnc-control) | Web interface served from an ESP32 to drive a GRBL CNC | ESP32, C++, PlatformIO |
+
+### Client work (private)
 | Project | What it does | Tech |
 |---|---|---|
 | GP Building + ALMARÉ | Real estate website with 360 tours, galleries, floor plans and a launch page | Astro, React |
